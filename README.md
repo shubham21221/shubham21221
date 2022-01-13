@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h2 align="center">Engineering student</h2>
+<h2 align="center">Engineering Student</h2>
 <h3 align="center">Student At D. Y. Patil Tecnical Campus,
  Pune (Computer Engineering 3rd year)</h3>
 
