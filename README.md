@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-8142
-Fork on GitHub
-1713
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shubham Sonawane</h1>
 <h3 align="center">Engineering Student</h3>
 
@@ -21,11 +5,11 @@ preview
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham21221" alt="shubham21221" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shubham_11_s" target="blank"><img src="https://img.shields.io/twitter/follow/@shubham_11_s?logo=twitter&style=for-the-badge" alt="@shubham_11_s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shubham_s_11" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_s_11?logo=twitter&style=for-the-badge" alt="shubham_s_11" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shubham_11_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shubham_11_s" height="30" width="40" /></a>
+<a href="https://twitter.com/shubham_s_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_s_11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-sonawane" height="30" width="40" /></a>
 <a href="https://fb.com/shubhan.sonawane11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhan.sonawane11" height="30" width="40" /></a>
 <a href="https://instagram.com/shubham_sonawane_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_sonawane_11" height="30" width="40" /></a>
@@ -44,28 +28,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham21221&show_icons=true&locale=en" alt="shubham21221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham21221&" alt="shubham21221" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
